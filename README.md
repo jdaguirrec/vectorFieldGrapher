@@ -1,2 +1,3 @@
 # vectorFieldGrapher
-Visualizador de campos vectoriales que permite representar gráficamente campos en el plano o el espacio, útil para análisis matemático y físico.
+3D/2D Visualizer for vectorial fields.
+It allows to represent using graphs diferent fields as 2D planes or 3D spaces, useful for math and physics analysis
